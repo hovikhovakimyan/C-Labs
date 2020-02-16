@@ -123,7 +123,7 @@ int main(int argc, char* argv[]) {
             printchar(input);
             index=0;
             memset(&input[0], 0, sizeof(input));
-            } //end if boolean=1 
+            } 
         } //end while
         printchar(input);
     } //end else
