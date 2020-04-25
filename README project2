@@ -1,1 +1,0 @@
-Just installed Cygwin and all the necessary tools because fork() and getppid() were not working with MinGW.
